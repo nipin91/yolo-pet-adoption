@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "name": "Dog 1",
+        "pic": "/assets/dog.jpeg",
+        "age": 4,
+        "type": "dog",
+        "gender": "female",
+        "adoptionFee": "$20"
+    },
+    {
+        "id": 2,
+        "name": "Cat 1",
+        "pic": "/assets/cat.jpeg",
+        "age": 4,
+        "type": "cat",
+        "gender": "female",
+        "adoptionFee": "$20"
+    },
+    {
+        "id": 3,
+        "name": "Cow 1",
+        "pic": "/assets/cow.jpeg",
+        "age": 4,
+        "type": "cow",
+        "gender": "male",
+        "adoptionFee": "$10"
+    },
+    {
+        "id": 3,
+        "name": "Rabbit 1",
+        "pic": "/assets/rabbit.jpeg",
+        "age": 4,
+        "type": "rabbit",
+        "gender": "female",
+        "adoptionFee": "$15"
+    },
+    {
+        "id": 1,
+        "name": "Dog 1",
+        "pic": "/assets/dog.jpeg",
+        "age": 4,
+        "type": "dog",
+        "gender": "female",
+        "adoptionFee": "$20"
+    },
+    {
+        "id": 2,
+        "name": "Cat 1",
+        "pic": "/assets/cat.jpeg",
+        "age": 4,
+        "type": "cat",
+        "gender": "female",
+        "adoptionFee": "$20"
+    },
+    {
+        "id": 3,
+        "name": "Cow 1",
+        "pic": "/assets/cow.jpeg",
+        "age": 4,
+        "type": "cow",
+        "gender": "male",
+        "adoptionFee": "$10"
+    },
+    {
+        "id": 3,
+        "name": "Rabbit 1",
+        "pic": "/assets/rabbit.jpeg",
+        "age": 4,
+        "type": "rabbit",
+        "gender": "female",
+        "adoptionFee": "$15"
+    },
+    {
+        "id": 1,
+        "name": "Dog 1",
+        "pic": "/assets/dog.jpeg",
+        "age": 4,
+        "type": "dog",
+        "gender": "female",
+        "adoptionFee": "$20"
+    },
+    {
+        "id": 2,
+        "name": "Cat 1",
+        "pic": "/assets/cat.jpeg",
+        "age": 4,
+        "type": "cat",
+        "gender": "female",
+        "adoptionFee": "$20"
+    },
+    {
+        "id": 3,
+        "name": "Cow 1",
+        "pic": "/assets/cow.jpeg",
+        "age": 4,
+        "type": "cow",
+        "gender": "male",
+        "adoptionFee": "$10"
+    },
+    {
+        "id": 3,
+        "name": "Rabbit 1",
+        "pic": "/assets/rabbit.jpeg",
+        "age": 4,
+        "type": "rabbit",
+        "gender": "female",
+        "adoptionFee": "$15"
+    },
+    {
+        "id": 1,
+        "name": "Dog 1",
+        "pic": "/assets/dog.jpeg",
+        "age": 4,
+        "type": "dog",
+        "gender": "female",
+        "adoptionFee": "$20"
+    },
+    {
+        "id": 2,
+        "name": "Cat 1",
+        "pic": "/assets/cat.jpeg",
+        "age": 4,
+        "type": "cat",
+        "gender": "female",
+        "adoptionFee": "$20"
+    },
+    {
+        "id": 3,
+        "name": "Cow 1",
+        "pic": "/assets/cow.jpeg",
+        "age": 4,
+        "type": "cow",
+        "gender": "male",
+        "adoptionFee": "$10"
+    },
+    {
+        "id": 3,
+        "name": "Rabbit 1",
+        "pic": "/assets/rabbit.jpeg",
+        "age": 4,
+        "type": "rabbit",
+        "gender": "female",
+        "adoptionFee": "$15"
+    },
+    {
+        "id": 1,
+        "name": "Dog 1",
+        "pic": "/assets/dog.jpeg",
+        "age": 4,
+        "type": "dog",
+        "gender": "female",
+        "adoptionFee": "$20"
+    },
+    {
+        "id": 2,
+        "name": "Cat 1",
+        "pic": "/assets/cat.jpeg",
+        "age": 4,
+        "type": "cat",
+        "gender": "female",
+        "adoptionFee": "$20"
+    },
+    {
+        "id": 3,
+        "name": "Cow 1",
+        "pic": "/assets/cow.jpeg",
+        "age": 4,
+        "type": "cow",
+        "gender": "male",
+        "adoptionFee": "$10"
+    },
+    {
+        "id": 3,
+        "name": "Rabbit 1",
+        "pic": "/assets/rabbit.jpeg",
+        "age": 4,
+        "type": "rabbit",
+        "gender": "female",
+        "adoptionFee": "$15"
+    },
+    {
+        "id": 1,
+        "name": "Dog 1",
+        "pic": "/assets/dog.jpeg",
+        "age": 4,
+        "type": "dog",
+        "gender": "female",
+        "adoptionFee": "$20"
+    },
+    {
+        "id": 2,
+        "name": "Cat 1",
+        "pic": "/assets/cat.jpeg",
+        "age": 4,
+        "type": "cat",
+        "gender": "female",
+        "adoptionFee": "$20"
+    },
+    {
+        "id": 3,
+        "name": "Cow 1",
+        "pic": "/assets/cow.jpeg",
+        "age": 4,
+        "type": "cow",
+        "gender": "male",
+        "adoptionFee": "$10"
+    },
+    {
+        "id": 3,
+        "name": "Rabbit 1",
+        "pic": "/assets/rabbit.jpeg",
+        "age": 4,
+        "type": "rabbit",
+        "gender": "female",
+        "adoptionFee": "$15"
+    }
+]

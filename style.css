@@ -1,0 +1,11 @@
+.list-group-item {
+    display: flex;
+    flex-direction: row;
+}
+.list-group-item .details {
+    padding: 10px; 
+}
+
+.list-group-item .image {
+    max-width: 100px;
+}
