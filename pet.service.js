@@ -13,6 +13,7 @@ function createPetDetailsElement(item) {
 function getPetList(petListGroup) {
     $.get("/pet/list.json", function (data) {
         petList = petList.length ? petList.concat(data) : data;
+        petListGroup.empty();
         petList.forEach((elem, index) => {
             petListGroup.append(createListElement(elem, index));
         })
